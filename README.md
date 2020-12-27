@@ -2,8 +2,6 @@
 
 😄 I'm a student majoring in Computer Science and Engineering at NSYSU.
 
-🔭 I’m currently working on Telecom Technology Center.
-
 ⚡ I post my note at https://sophiexin9636.github.io/.
 
 💬 Motto: Life begins at the end of your comfort zone.
